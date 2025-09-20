@@ -1,0 +1,14 @@
+body {
+    border: 1px dotted black;
+}
+
+/* estilos para el encabezado de la pagina de inicio de la DIAN */
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+;
+    }
+
+
+
